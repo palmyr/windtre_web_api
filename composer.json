@@ -1,0 +1,19 @@
+{
+    "name": "ryan/windtre_web_api",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Palmyr\\WindtreWebApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "palmyr",
+            "email": "ryan.shane.palm@outlook.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
