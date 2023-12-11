@@ -25,3 +25,5 @@ Homestead.json
 demo.php
 
 .idea
+.php-cs-fixer.cache
+composer.lock
