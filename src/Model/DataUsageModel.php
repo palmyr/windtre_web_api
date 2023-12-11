@@ -43,7 +43,7 @@ class DataUsageModel implements \Stringable
 
     public function __toString(): string
     {
-        return $this->description . " "
+        return $this->description() . " "
             . $this->getNextResetDate() . " "
             . $this->getResidual()
             . $this->getResidualUnit();
