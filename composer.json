@@ -1,5 +1,5 @@
 {
-    "name": "ryan/windtre_web_api",
+    "name": "palmyr/windtre_web_api",
     "type": "library",
     "license": "GPL-3.0-only",
     "autoload": {
